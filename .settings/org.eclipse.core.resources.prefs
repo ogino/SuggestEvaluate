@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/pro/miyabi/evaluate/suggest/FuzzyQueryEvaluate.java=UTF-8
+encoding//test/pro/miyabi/evaluate/suggest/FuzzyQueryEvaluateTest.java=UTF-8
+encoding//test/pro/miyabi/evaluate/suggest/SpellCheckerEvaluateTest.java=UTF-8
+encoding//test/pro/miyabi/evaluate/suggest/kanzo_uchimura.txt=UTF-8
+encoding//test/pro/miyabi/evaluate/suggest/wagahaiwa_nekodearu.txt=UTF-8
+separateDerivedEncodings=true
